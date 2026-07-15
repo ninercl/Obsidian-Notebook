@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "88d7f4566d663715",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59ee0a5c1e0056f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99430975c9958457",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notas cuaderno/Pasted image 20260703133034.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260703133034"
+            }
+          },
+          {
+            "id": "624f5c6760124a82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notas cuaderno/Pasted image 20260713150431.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260713150431"
+            }
+          },
+          {
+            "id": "e56c5cfafc669343",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notas cuaderno/Pasted image 20260713144325.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260713144325"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eba8756bdb83c585",
+    "type": "split",
+    "children": [
+      {
+        "id": "54286d11b54c7ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8018b0f1ee1a7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00fe84e5509626b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25a648df7c32a0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a74de1a3a8fad39",
+    "type": "split",
+    "children": [
+      {
+        "id": "389c62a20f51f97b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4284dddd49de6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20260316101225.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Pasted image 20260316101225"
+            }
+          },
+          {
+            "id": "4d33f78c63fc047b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20260316101225.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Pasted image 20260316101225"
+            }
+          },
+          {
+            "id": "971e6fa0b684b726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c5e3e07b7fbfa8b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "d341386e8ede5728",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20260316101225.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Pasted image 20260316101225"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7a8018b0f1ee1a7b",
+  "lastOpenFiles": [
+    "Notas cuaderno/Pasted image 20260713144639.png",
+    "Notas cuaderno/Pasted image 20260713150431.png",
+    "Notas cuaderno/Pasted image 20260713144325.png",
+    "Notas cuaderno/2. Information and Data Models.md",
+    "Notas cuaderno/1. Review data fundamentals.md",
+    "Instructivos SIVRIDT/Manual Usuario 06112018 V9.pdf",
+    "IBM Full-Stack/Pasted image 20260427174426.png",
+    "IBM Full-Stack/DevOps.md",
+    "Notas cuaderno/Mod 2.2 Database Objects and Hierarchy.md",
+    "Notas cuaderno/Pasted image 20260713144038.png",
+    "NODOS/Esquema base datos NODOS.md",
+    "UCN-Postulaciones/Rennes.md",
+    "2026-07-03.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "UCN-Postulaciones/Sin título.md",
+    "Notas cuaderno/Pasted image 20260703133034.png",
+    "Notas cuaderno/Pasted image 20260703133106.png",
+    "Notas cuaderno/Pasted image 20260706094915.png",
+    "Notas cuaderno/Database offerings.md",
+    "Notas cuaderno/4. Database Architecture.md",
+    "Notas cuaderno/torpedo_sql_visualizacion.pdf",
+    "Notas cuaderno/Pasted image 20260629015209.png",
+    "Notas cuaderno/Pasted image 20260628012920.png",
+    "Notas cuaderno/ERDs and Types of Relationships.md",
+    "Notas cuaderno/IBM Data Engineering.md",
+    "Notas cuaderno/6. Database Usage patterns.md",
+    "Notas cuaderno/5 .Types of database architecture.md",
+    "Notas cuaderno/Internacionalizacion.md",
+    "Notas cuaderno/Relational Model Concepts.md",
+    "Notas cuaderno/Data Types.md",
+    "Sin título.canvas",
+    "Esteban/Dificultades Trazanbilidad Investigadores.md",
+    "Codigo/SQL y Vizz.md",
+    "Esteban/Reunión SIC.md",
+    "UCN-Analisis/PDE.md",
+    "Sin título.md",
+    "Sin título 2.md",
+    "Sin título 3.md",
+    "Sin título 1.md",
+    "Notas cuaderno",
+    "IBM Full-Stack",
+    "Instructivos SIVRIDT/sivrdt_initernacional.xlsx",
+    "Instructivos SIVRIDT/Indicative List HE calls for LAC WP 2026-2027 (1).xlsx",
+    "Instructivos SIVRIDT",
+    "Esteban/productividad/Analisis productividad/resultado_productividad_pde_2025_v7.xlsx",
+    "Esteban/productividad/Analisis productividad/LISTADO_ACADEMICOS_2025_MODIFICADO.xlsx",
+    "Esteban/productividad/Analisis productividad/~$resultado_productividad_pde_2025_v7.xlsx"
+  ]
+}
