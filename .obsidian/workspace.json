@@ -35,16 +35,46 @@
             "id": "e56c5cfafc669343",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notas cuaderno/Pasted image 20260713144325.png"
+                "file": "Notas cuaderno/1. Review data fundamentals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260713144325"
+              "icon": "lucide-file",
+              "title": "1. Review data fundamentals"
+            }
+          },
+          {
+            "id": "6a36dfd940d763d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas cuaderno/3 MySQL and PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 MySQL and PostgreSQL"
+            }
+          },
+          {
+            "id": "025ae52c3ce893db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas cuaderno/2.2 Normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Normalization"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,13 +236,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a8018b0f1ee1a7b",
+  "active": "6a36dfd940d763d8",
   "lastOpenFiles": [
+    "Notas cuaderno/1. Review data fundamentals.md",
+    "Notas cuaderno/2.2 Normalization.md",
+    "Notas cuaderno/3 MySQL and PostgreSQL.md",
+    "Notas cuaderno/Pasted image 20260719013756.png",
+    "Notas cuaderno/Pasted image 20260719013651.png",
+    "Notas cuaderno/Pasted image 20260719011609.png",
+    "Notas cuaderno/Pasted image 20260713144325.png",
     "Notas cuaderno/Pasted image 20260713144639.png",
     "Notas cuaderno/Pasted image 20260713150431.png",
-    "Notas cuaderno/Pasted image 20260713144325.png",
     "Notas cuaderno/2. Information and Data Models.md",
-    "Notas cuaderno/1. Review data fundamentals.md",
     "Instructivos SIVRIDT/Manual Usuario 06112018 V9.pdf",
     "IBM Full-Stack/Pasted image 20260427174426.png",
     "IBM Full-Stack/DevOps.md",
@@ -227,12 +262,9 @@
     "UCN-Postulaciones/Sin título.md",
     "Notas cuaderno/Pasted image 20260703133034.png",
     "Notas cuaderno/Pasted image 20260703133106.png",
-    "Notas cuaderno/Pasted image 20260706094915.png",
     "Notas cuaderno/Database offerings.md",
     "Notas cuaderno/4. Database Architecture.md",
     "Notas cuaderno/torpedo_sql_visualizacion.pdf",
-    "Notas cuaderno/Pasted image 20260629015209.png",
-    "Notas cuaderno/Pasted image 20260628012920.png",
     "Notas cuaderno/ERDs and Types of Relationships.md",
     "Notas cuaderno/IBM Data Engineering.md",
     "Notas cuaderno/6. Database Usage patterns.md",
@@ -247,8 +279,6 @@
     "UCN-Analisis/PDE.md",
     "Sin título.md",
     "Sin título 2.md",
-    "Sin título 3.md",
-    "Sin título 1.md",
     "Notas cuaderno",
     "IBM Full-Stack",
     "Instructivos SIVRIDT/sivrdt_initernacional.xlsx",
