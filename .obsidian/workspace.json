@@ -1,0 +1,527 @@
+{
+  "main": {
+    "id": "1a6843ee72a1b8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "adcfd6029d16006d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e977e66a17c87c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "1bd138f087759a4a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.8.10"
+            }
+          },
+          {
+            "id": "7482341a5cb7b4b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.12"
+            }
+          },
+          {
+            "id": "efb73272a37e5587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comidas China.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comidas China"
+            }
+          },
+          {
+            "id": "71ae49e4e5fd725c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.6"
+            }
+          },
+          {
+            "id": "64346b7f10aadd8c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "858233aa98784ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "86e9b3710e9b650b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RDBMS/3.2 Keys and Constraints MySQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 Keys and Constraints MySQL"
+            }
+          },
+          {
+            "id": "d33cd0cda4f14a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.3 PostgresSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 PostgresSQL"
+            }
+          },
+          {
+            "id": "e226dc5e42c56751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL IBM/SQL Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Cheat Sheet"
+            }
+          },
+          {
+            "id": "8c89b773e46a1d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM-GIT Token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IBM-GIT Token"
+            }
+          },
+          {
+            "id": "4d230ce2c72c0121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git cheat sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git cheat sheet"
+            }
+          },
+          {
+            "id": "449bfa70f5048d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Data Engineering Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Engineering Intro"
+            }
+          },
+          {
+            "id": "f446bff85ce3c91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data"
+            }
+          },
+          {
+            "id": "139a966af12174e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data"
+            }
+          },
+          {
+            "id": "9df556611eb685f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Date integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Date integration"
+            }
+          },
+          {
+            "id": "2ed918f8358a9aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comidas China.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comidas China"
+            }
+          },
+          {
+            "id": "ea6480900b20671e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Date integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Date integration"
+            }
+          },
+          {
+            "id": "8e5b0f9f7d1ae94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBs Offerings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DBs Offerings"
+            }
+          },
+          {
+            "id": "71a5d1c0c0585cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using relational databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using relational databases"
+            }
+          },
+          {
+            "id": "030051baadd490e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 2"
+            }
+          },
+          {
+            "id": "ee0b037dd199fe26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2 Primary and  Foreign Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Primary and  Foreign Keys"
+            }
+          },
+          {
+            "id": "f5f59fff5da48e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ef17434c367cd2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2997e5e900403e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e8e6afff02525b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e47c52b5fba0a8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"IBM Data Engineering Foundations/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d81391dd4f3b7e57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f7219aa2c39706d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7035698fadfc84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273dcd7dbe83321d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IBM Data Engineering Foundations/Date integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Date integration"
+            }
+          },
+          {
+            "id": "c0992198d5a77662",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "for escrito en while .png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de for escrito en while"
+            }
+          },
+          {
+            "id": "a88d5dc554dd0d72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "45861bd948692360",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.3 PostgresSQL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3.3 PostgresSQL"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "62e8e6afff02525b",
+  "lastOpenFiles": [
+    "Pasted image 20260721003926.png",
+    "RDBMS/3.2 Keys and Constraints MySQL.md",
+    "3.3 PostgresSQL.md",
+    "IBM Data Engineering Foundations/Data.md",
+    "RDBMS",
+    "2.2 Primary and  Foreign Keys.md",
+    "IBM FUll-stack/GIT/Git and Github.md",
+    "Test.md",
+    "IBM FUll-stack/GIT/IBM-GIT Token.md",
+    "IBM FUll-stack/GIT/git.md",
+    "IBM FUll-stack/GIT/Git cheat sheet.md",
+    "IBM FUll-stack/GIT/Pasted image 20260531225209.png",
+    "IBM FUll-stack/GIT/Pasted image 20260528002629.png",
+    "IBM FUll-stack/GIT/Pasted image 20260528002547.png",
+    "IBM FUll-stack/GIT",
+    "IBM FUll-stack/Nueva carpeta",
+    "IBM FUll-stack/Pasted image 20260531225209.png",
+    "IBM FUll-stack/Pasted image 20260528002629.png",
+    "Normalization.md",
+    "IBM Data Engineering Foundations/Normalization.md",
+    "IBM Data Engineering Foundations/DBs Offerings.md",
+    "IBM Data Engineering Foundations/Data Movement (module 2).md",
+    "IBM Data Engineering Foundations/Data Engineer Roles.md",
+    "IBM FUll-stack/Pasted image 20260528002547.png",
+    "IBM FUll-stack/Pasted image 20260516013505.png",
+    "IBM FUll-stack/Pasted image 20260516013419.png",
+    "IBM FUll-stack/Pasted image 20260516013356.png",
+    "IBM FUll-stack/Pasted image 20260516013229.png",
+    "IBM FUll-stack/IBM-GIT Token.md",
+    "IBM FUll-stack/git.md",
+    "IBM FUll-stack/Git cheat sheet.md",
+    "DBs Offerings.md",
+    "Data Movement (module 2).md",
+    "Sin título 2.md",
+    "Using relational databases.md",
+    "IBM Data Engineering Foundations/Date integration.md",
+    "IBM Data Engineering Foundations/Data Engineering Intro.md",
+    "IA Ciencia Abierta.md",
+    "Comidas China.md",
+    "Sin título 1.base",
+    "Sin título.canvas",
+    "Sin título.base",
+    "IBM Data Engineering Foundations",
+    "IBM FUll-stack",
+    "SQL IBM"
+  ]
+}
