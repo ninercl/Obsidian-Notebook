@@ -1,3 +1,6 @@
+#DevOps #Cloud
+[[MOC - IBM Full-Stack]]
+
 ![[Pasted image 20260427174426.png]]
 
 Cloud Native app
