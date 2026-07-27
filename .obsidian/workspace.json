@@ -11,12 +11,14 @@
             "id": "99430975c9958457",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notas cuaderno/Pasted image 20260703133034.png"
+                "file": "Notas cuaderno/7.Approach Database Design (Final Proyect).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260703133034"
+              "icon": "lucide-file",
+              "title": "7.Approach Database Design (Final Proyect)"
             }
           },
           {
@@ -83,8 +85,7 @@
               "title": "2.2 Normalization"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2a74de1a3a8fad39",
@@ -247,25 +247,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ee047cd679ce6a5",
+  "active": "99430975c9958457",
   "lastOpenFiles": [
+    "Notas cuaderno/1. Review data fundamentals.md",
+    "Notas cuaderno/7.Approach Database Design (Final Proyect).md",
+    "Adjuntos sueltos/for escrito en while .png",
+    "Codigo/SQL y Vizz.md",
+    "InES Género/MOC - InES Género.md",
+    "InES Género/InES Género Año 3 - Solicitudes de datos por unidad.md",
+    "Notas cuaderno/5 .Types of database architecture.md",
+    "Personal/Comidas China.md",
+    "Notas cuaderno/4. Database Architecture.md",
+    "Notas cuaderno/3.3 PostgresSQL.md",
+    "Notas cuaderno/3 MySQL and PostgreSQL.md",
+    "Notas cuaderno/2.2 Primary and Foreign Keys.md",
+    "Notas cuaderno/2.2 Normalization.md",
+    "Notas cuaderno/2. Information and Data Models.md",
+    "UCN/Pasted image 20260625151252.png",
+    "UCN/IA Ciencia Abierta.md",
+    "Pasted image 20260722104204.png",
+    "Pasted image 20260722103917.png",
+    "Corfo I+D.md",
+    "Pasted image 20260722101505.png",
+    "Pasted image 20260722101032.png",
+    "Notas cuaderno/Pasted image 20260703133034.png",
     "Pasted image 20260722105456.png",
     "Pasted image 20260722105050.png",
     "Pasted image 20260722104451.png",
-    "Pasted image 20260722104204.png",
-    "Pasted image 20260722104105.png",
-    "Pasted image 20260722103917.png",
-    "Pasted image 20260722103444.png",
-    "Pasted image 20260722103238.png",
-    "Pasted image 20260722103053.png",
-    "Pasted image 20260722103019.png",
-    "Pasted image 20260722102729.png",
-    "Corfo I+D.md",
-    "Notas cuaderno/5 .Types of database architecture.md",
-    "Notas cuaderno/3 MySQL and PostgreSQL.md",
-    "Notas cuaderno/1. Review data fundamentals.md",
-    "Notas cuaderno/2.2 Normalization.md",
-    "Notas cuaderno/2. Information and Data Models.md",
     "Instructivos SIVRIDT/Manual Usuario 06112018 V9.pdf",
     "IBM Full-Stack/DevOps.md",
     "Notas cuaderno/Mod 2.2 Database Objects and Hierarchy.md",
@@ -277,20 +285,11 @@
     "Untitled 1.canvas",
     "UCN-Postulaciones/Sin título.md",
     "Notas cuaderno/Database offerings.md",
-    "Notas cuaderno/4. Database Architecture.md",
     "Notas cuaderno/torpedo_sql_visualizacion.pdf",
     "Notas cuaderno/ERDs and Types of Relationships.md",
     "Notas cuaderno/IBM Data Engineering.md",
     "Notas cuaderno/6. Database Usage patterns.md",
-    "Notas cuaderno/Internacionalizacion.md",
-    "Notas cuaderno/Relational Model Concepts.md",
-    "Notas cuaderno/Data Types.md",
     "Sin título.canvas",
-    "Esteban/Dificultades Trazanbilidad Investigadores.md",
-    "Codigo/SQL y Vizz.md",
-    "Esteban/Reunión SIC.md",
-    "UCN-Analisis/PDE.md",
-    "Sin título.md",
     "Notas cuaderno",
     "IBM Full-Stack",
     "Instructivos SIVRIDT/sivrdt_initernacional.xlsx",
