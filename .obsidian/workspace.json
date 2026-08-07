@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBM Full-Stack/MOC - IBM Full-Stack.md",
+                "file": "IBM Data Engineering/ETL and Pipelines/Data extraction techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC - IBM Full-Stack"
+              "title": "Data extraction techniques"
             }
           }
         ],
@@ -278,8 +278,8 @@
   },
   "active": "6b7c39def1dd0948",
   "lastOpenFiles": [
-    "IBM Full-Stack/Pasted image 20260427174426.png",
     "IBM Full-Stack/MOC - IBM Full-Stack.md",
+    "IBM Full-Stack/Pasted image 20260427174426.png",
     "IBM Data Engineering/ETL and Pipelines/Pipelines.md",
     "IBM Data Engineering/ETL and Pipelines/ETL And Pipelines - ETL Foundamentals.md",
     "IBM Data Engineering/ETL and Pipelines/Data extraction techniques.md",
@@ -313,7 +313,6 @@
     "Pasted image 20260722104204.png",
     "Pasted image 20260722103917.png",
     "Corfo I+D.md",
-    "Pasted image 20260722101505.png",
     "Instructivos SIVRIDT/Manual Usuario 06112018 V9.pdf",
     "IBM Data Engineering/DE Foundations and RDBMS/Mod 2.2 Database Objects and Hierarchy.md",
     "NODOS/Esquema base datos NODOS.md",

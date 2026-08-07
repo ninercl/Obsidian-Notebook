@@ -56,5 +56,43 @@ Examples of ways information can be lost:
 - Edge computing device 
 
 ---
-Data Loading Techniques 
+[[Data Loading Techniques ]]
 
+### Types of incremental loading
+
+- Stream loading 
+	- Data is loaded in real-time
+- Batch loading: data loaded in batches 
+
+#### Stream loading: Continuous updates as data arrives. 
+- Triggered by events: real-time data, such as sensor data, socail media feed, IoT
+- Measures: such as data size, threshold values. 
+- User requests, such as videos or music streaming, web pages. 
+
+#### Batch loading
+- Periodic loading, such as daily transactions to database
+- Can be scheduled: 
+	- Windos Task schedules
+	- Cron
+	- Daily stock update
+
+
+### Push vs pull methodology
+
+client-server or publisher-suscriber model
+
+Push: 
+- Source pushehs data to data warehouse
+- Useful for real time data
+Pull
+- Data earehouse pulls the data from the source
+- Useful for scheduled extranction and batch loading
+
+### Loading plans
+
+Serial or sequential loading
+- Sequential: Data is added one after the other in sequence --> Default plan
+ - Parallel loading: Data form different sources are loaded parallelly
+	 - Data from oneo source is split into chunks and loaded
+	 - Faster/optimized approach
+	 
