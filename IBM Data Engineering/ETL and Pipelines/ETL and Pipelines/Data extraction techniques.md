@@ -72,7 +72,7 @@ Examples of ways information can be lost:
 #### Batch loading
 - Periodic loading, such as daily transactions to database
 - Can be scheduled: 
-	- Windos Task schedules
+	- Windows Task schedules
 	- Cron
 	- Daily stock update
 
