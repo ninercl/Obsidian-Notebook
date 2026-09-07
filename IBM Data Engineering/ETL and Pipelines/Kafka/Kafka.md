@@ -99,3 +99,36 @@ Kafka Consumer CLI
 
 Kafka Stream Process
 
+- Implement an Ad hoc data processor to read events to one topic, process them, and publish them into another topic
+- Many stream processes might be complicated, you can use Kafka ASteams API to facilitare data processing in event streaming pipelines. .
+	- Processes and analyzes data store in Kafka topics. 
+	- Each record only processed onece. Processing one record at a time. 
+
+Stream processing topology
+
+![[Pasted image 20260822000632.png|613]]
+
+![[Pasted image 20260822003510.png|612]]
+
+---
+**Summary**
+
+- An event stream represents entities’ status updates over time 
+    
+- The main components of an ESP are Event broker, Event storage, Analytic, and Query Engine 
+    
+- Apache Kafka is a very popular open-source ESP 
+    
+- Popular Kafka service providers include Confluent Cloud, IBM Event Stream, and Amazon MSK 
+    
+- The core components of Kafka are brokers, topics, partitions, replications, producers, and consumers 
+    
+- The Kafka-console-consumer manages consumers 
+    
+- Kafka Streams API is a simple client library supporting you with data processing in event streaming pipelines 
+    
+- A stream processor receives, transforms, and forwards the processed stream 
+    
+- Kafka Streams API uses a computational graph 
+    
+- There are two special types of processors in the topology: The source processor and the sink processor

@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBM Data Engineering/ETL and Pipelines/Kafka/Kafka.md",
+                "file": "IBM Data Engineering/Linux COmmands and Shell Scripting/Introduction to Linux Commands and Shell Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka"
+              "title": "Introduction to Linux Commands and Shell Scripting"
             }
           }
         ],
@@ -266,18 +266,20 @@
   },
   "active": "7084e33154064b03",
   "lastOpenFiles": [
-    "Pasted image 20260819235432.png",
-    "Pasted image 20260819235256.png",
-    "Pasted image 20260819235131.png",
-    "Pasted image 20260819225437.png",
-    "Pasted image 20260819225332.png",
-    "Pasted image 20260819224504.png",
-    "Pasted image 20260819224002.png",
-    "Pasted image 20260819184521.png",
-    "Pasted image 20260819162622.png",
-    "Pasted image 20260819162320.png",
+    "Pasted image 20260907003233.png",
+    "Pasted image 20260906201916.png",
+    "Pasted image 20260906201759.png",
+    "Pasted image 20260906171928.png",
+    "Pasted image 20260906171828.png",
+    "Pasted image 20260906171740.png",
+    "Pasted image 20260906171709.png",
+    "Pasted image 20260906171646.png",
+    "Pasted image 20260905234221.png",
     "IBM Data Engineering/ETL and Pipelines/Kafka/Kafka.md",
-    "Pasted image 20260819004052.png",
+    "IBM Data Engineering/Linux COmmands and Shell Scripting/Introduction to Linux Commands and Shell Scripting.md",
+    "IBM Data Engineering/Linux COmmands and Shell Scripting",
+    "Pasted image 20260822003510.png",
+    "Pasted image 20260822000632.png",
     "IBM Data Engineering/ETL and Pipelines/2. Apache Airflow/Apache Airflow.md",
     "IBM Data Engineering/ETL and Pipelines/Kafka",
     "Untitled.md",
@@ -306,7 +308,6 @@
     "IBM Data Engineering/DE Foundations and RDBMS/3 MySQL and PostgreSQL.md",
     "IBM Data Engineering/DE Foundations and RDBMS/2.2 Primary and Foreign Keys.md",
     "IBM Data Engineering/DE Foundations and RDBMS/2.2 Normalization.md",
-    "IBM Data Engineering/DE Foundations and RDBMS/2. Information and Data Models.md",
     "Instructivos SIVRIDT/Manual Usuario 06112018 V9.pdf",
     "Untitled 2.canvas",
     "Untitled.canvas",
@@ -314,7 +315,6 @@
     "IBM Data Engineering/DE Foundations and RDBMS/torpedo_sql_visualizacion.pdf",
     "Sin título.canvas",
     "IBM Data Engineering/DE Foundations and RDBMS",
-    "IBM Full-Stack",
-    "Instructivos SIVRIDT/sivrdt_initernacional.xlsx"
+    "IBM Full-Stack"
   ]
 }
