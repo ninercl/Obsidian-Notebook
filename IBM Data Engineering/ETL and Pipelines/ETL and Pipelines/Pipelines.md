@@ -119,3 +119,4 @@ Talend Open Studio.
 
 ![[Pasted image 20260810002736.png|579]]
 
+[[MOC - IBM Data Engineering]]

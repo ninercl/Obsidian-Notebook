@@ -95,4 +95,6 @@ Serial or sequential loading
  - Parallel loading: Data form different sources are loaded parallelly
 	 - Data from oneo source is split into chunks and loaded
 	 - Faster/optimized approach
-	 
+
+
+[[MOC - IBM Data Engineering]]
