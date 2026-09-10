@@ -1,4 +1,6 @@
 
+### Module 1
+
 What is Unix?
 
 A family of operating systems:
@@ -164,3 +166,23 @@ cd Documents/python-examples/
 ```
 
 ![[Pasted image 20260907003233.png]]
+
+---
+### Module 2
+
+What is a shell? 
+- User interface for running commands 
+- INteractive language
+- Scripting language
+
+A sea of shells
+- Default shell is usually Bash
+- Many other shells, including sh, ksh, tcsh, zch, and fish
+- This course uses bash
+
+$ printenv SHELL
+$ bash in SN | outside SN you can use >
+
+
+
+

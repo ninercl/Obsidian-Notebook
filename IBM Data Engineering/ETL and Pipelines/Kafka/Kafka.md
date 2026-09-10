@@ -1,4 +1,4 @@
-ww[[Kafka]]
+[[Kafka]]
 
 ### Distributed event streaming platforms components
 
