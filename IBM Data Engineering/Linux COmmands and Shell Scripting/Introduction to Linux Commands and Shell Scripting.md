@@ -183,6 +183,40 @@ A sea of shells
 $ printenv SHELL
 $ bash in SN | outside SN you can use >
 
+Shell command applications
+- Getting information
+- Navigating and working with files and directories 
+- printing file and string contents
+- Compression and archiving
+- Performing network operations
+- Monitoring performance and status
+- Running batch jobs
+
+![[Pasted image 20260910223211.png]]
+
+![[Pasted image 20260910223225.png]]
+
+![[Pasted image 20260910223254.png]]
+
+![[Pasted image 20260910223329.png]]
+
+![[Pasted image 20260910223403.png]]
+
+![[Pasted image 20260910223427.png]]
+
+
+
+INformationla Commands
+- Display user information 
+- whoami
+- id: id -u | id -u -n
+- uname | uname -s -r (Nname of OS)
+- df (disk free) : df -h ~
+- ps (process status): ps -e
+- top (tables of processes) : top -n 3
+- echo (print string or variable): $ echo "hello" | $ echo $PATH
+- date: displays date and time: $  date | date "+%j day of %Y"
+- Man (manual): $ man id 
 
 
 
