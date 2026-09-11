@@ -1,4 +1,6 @@
 
+### Module 1
+
 What is Unix?
 
 A family of operating systems:
@@ -165,64 +167,22 @@ cd Documents/python-examples/
 
 ![[Pasted image 20260907003233.png]]
 
-----
-[[Creating and Editing Text Files]]
+---
+### Module 2
 
-Popular text editors:
-- Command-line text editors: GNU nano, vi, VIM
-- GUI-based text editors: gedit
-- Command-line or GUI: emacs
+What is a shell? 
+- User interface for running commands 
+- INteractive language
+- Scripting language
 
-Features of gedit:
-A general-purpose editor, easy to use with a clean, simple GUI:
-- Integrate file browser
-- Undo and redo
-- Search and replace
-- Extensibility
+A sea of shells
+- Default shell is usually Bash
+- Many other shells, including sh, ksh, tcsh, zch, and fish
+- This course uses bash
 
-Features of GNU nano:
-A command-line text editor provides:
-- Undo and redo
-- Search and replace
-- Syntax highlighting
-- Indenting groups of lines 
-- Line numbers 
-- Line-by-line scrolling
-- Multiple buffers
-
-File editing with vim
-VIm is a traditional and very powerful command-line
-
-to star vim: vim
-to specify a file to edit, type: vim filename 
-
-*Two basic modes*
-
-- Insert and command mode. Press i to enter Insert mode. PRess ESC to exit insert mode and switch to command mode. 
-- Enter :sav exapample.etx to create a file and write the buffer to the file 
-- Enter :w to write the buffer to the file
-- Enter :1 to quit vim session
-- Enter :q! to quit without saving
+$ printenv SHELL
+$ bash in SN | outside SN you can use >
 
 
-----
-Packages
 
-![[Pasted image 20260910004706.png]]
-
-Deb And RPM Packages
-
-- Packages for Linux OS
-- Distinct file types for different Linux Oss
-- .deb files: For Debain-based distributions such as Debian, Ububtu, and Mint.
-- .rpm files: for Red Hat-Based distributions such as CentOS/RHEL, Fedora, and OpenSUSE
-- RPM ands for Red Hat Package Manager
-
-deb and RPM formas are equivalent
-- deb and RPM formas are equivalent
-- If a package is only available in one format, you can use alien to convert it.
-
-- sudo apt upgrade to update 
-- yum to update rpm 
-- pip for python
 
