@@ -1,4 +1,4 @@
-[[Kafka]]
+[[MOC - IBM Data Engineering]] #Kafka #IBMDataEngineering 
 
 ### Distributed event streaming platforms components
 

@@ -38,3 +38,6 @@ Mapa de contenido: curso IBM Data Engineering Foundations / RDBMS, notas fusiona
 - [[Date integration]]
 - [[Metadata and Metadata Management]]
 - [[Internacionalizacion]]
+
+# Linux y Shell
+- [[Introduction to Linux Commands and Shell Scripting]]

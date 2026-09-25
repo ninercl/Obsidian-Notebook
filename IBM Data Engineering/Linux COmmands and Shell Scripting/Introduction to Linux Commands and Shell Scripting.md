@@ -1,5 +1,7 @@
 
-### Module 1
+
+[[MOC - IBM Data Engineering]] #Linux #Shell
+
 
 What is Unix?
 
@@ -218,6 +220,72 @@ Informationla Commands
 - date: displays date and time: $  date | date "+%j day of %Y"
 - Man (manual): $ man id 
 
+---
+### Viewing File Content
+
+- cat (catenate) - Print entire file contents
+- more - Print file contents page-by-page
+- head - print first 10 lines 
+- head - print firs N lines of file: head -n 3 numbers.txt
+- tail - print the last 10 lines
+- tal -n 3 
+- wc (word count) - count characters, words, lines : wc pets.txt | wc -l pets.txt (don't count newlines) | wc -w pets-txt (to view only word count) | wc -c to view only byte count
+### Useful commands for Wrangling text files 
+
+- sort - sort lines in a file | sort -r oets.txt (reverse order)
+- uniq ("unique") - Filter out repeated lines 
+- grep ("global regular expression print") - Returns lines in a file matching pattern. grep -i makes it case insensitive: gre cg people.txt | grep -i ch people.txt
+- cut - extracts a section form each line. cut -c 2-9 people.txt | cut -d ' ' -f2 people.txt
+- paste - merge lines from different files: paste firs.txt last.txt yob.txt | paste -d "," firs.txt last.txt yob.txt 
+
+![[Pasted image 20260916004637.png]]
+
+---
+### Networking
+
+- A computer network is a set of computers that are able to communicate with each other and share resources. A network resource is any object, such as a file or document, which can be identified by the network. A network node is any device that participates in a network.
+    
+- A host is a computer that can function as a server or a client on a network. A server is a host computer that is able to accept a connection from a client host and fulfill certain resource requests made by the client.
+    
+- A network packet is a formatted chunk of data that can be transmitted over a network. The ping command works by sending special 'echo request' packets to a host and waiting for a response from the host.
+    
+- An IP address is a code used to uniquely identify any host on a network. A URL identifies a web resource and enables access to that resource.
+
+**Network Commands**
+
+- hostaname - prints hostname | hostname -s | hostname -i
+- ip a - display system network interfaces | ip addr show eth0
+- ping - send ICMP packets to URL and print response
+- curl (Client URL) - Transfer data to and from URL | curl www.google.com -o google.txt
+- wget (Web get) - Downloads files form a IRL; more focused than curl, supports recursive file downloads
+
+
+----
+### File Archiving and Compression Commands
+
+**Archiving** is storing the information and preserve it. A collection of data files and directories stores as a single file. Makes the collection more portable and serve as a backup in case of loss or corruption
+**Compression** reduce the file size by reducing information redundancy. Preserves storage, space, speeds up data transfer, and reduces bandwidth load. 
+
+- tar (tape archiver) 
+
+```
+Archive and extract files: tar -cf notes.tar notes
+Compress: tar -czf notes.tar.gz notes
+list items: tar -tf notes.tar
+extract: tar -xf notes.tar notes
+Decompress/extracat: tar -xzf notes.tar.gz notes
+ls -R to see the directories 
+```
+
+Zip
+
+Zip compress files and directories to an archive
+
+ ```
+ zip:  zip -r notes.zip notes | ls to check
+ unzip: unzip notes.zip | ls -R
+ ```
+ 
 
 -----
 [[Linux Commands]]
