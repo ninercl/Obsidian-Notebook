@@ -206,7 +206,7 @@ Shell command applications
 
 
 
-INformationla Commands
+Informationla Commands
 - Display user information 
 - whoami
 - id: id -u | id -u -n
@@ -219,4 +219,190 @@ INformationla Commands
 - Man (manual): $ man id 
 
 
+-----
+[[Linux Commands]]
 
+man -k
+
+- NAME - The name of the command or feature and a brief description of what it does.
+    
+- SYNOPSIS - A summary of the command syntax, including any options and arguments that can be used.
+    
+- DESCRIPTION - A more detailed description of the command, including its function and behavior.
+    
+- OPTIONS - All the available options and arguments that can be used with the command.
+    
+- EXAMPLES - Some examples of how to use the command.
+    
+- SEE ALSO - Related commands and documentation that may be helpful.
+
+---
+### File and directory navigation commands
+
+
+ls (list) - list files and directories
+pwd - print working directory
+cd - change directory | cd .. change to parent directory | cd ~ for home folder
+find - find files in directory
+mkdir - Make directory | mkdir test
+rm - remove file or directory - rm file1 | rm -r folder | rmdir 
+touch - create empty files | touch a.txt  | date -r notes (check creation date)
+cp - copy a file or directory | cp notes.txt Documents
+mv - move file or directory | mv my_script.sh Scripts
+chmod - Change file permissions  | chmod +x my_script.sh
+
+![[Pasted image 20260913002022.png]]
+
+
+# Security - Managing File Permissions and Ownership
+
+## File Ownership and Permissions — Summary
+
+Linux is a **multi-user operating system**, so file permissions are important to protect private or confidential information from other users.
+
+### Ownership levels
+
+Linux uses three ownership categories:
+
+- **User (u):** the owner of the file, usually the person who created it.
+- **Group (g):** a group of users who may share access.
+- **Other (o):** everyone else with access to the system.
+
+The file owner can decide who is allowed to read, modify, or execute the file.
+
+### Permission types
+
+Linux uses three main permissions:
+
+- **r — read:** view the contents of a file.
+- **w — write:** modify the file.
+- **x — execute:** run the file as a program or script.
+
+You can view permissions with:
+
+```
+ls -l
+```
+
+For example:
+
+```
+-rw-r--r--
+```
+
+This is divided into three groups:
+
+```
+rw-   r--   r--
+user  group other
+```
+
+This means:
+
+- The **user** can read and write.
+- The **group** can only read.
+- **Others** can only read.
+- Nobody can execute the file.
+
+The first character describes the object type:
+
+```
+- = regular file
+d = directory
+```
+
+### Directory permissions
+
+Permissions have slightly different meanings for directories:
+
+|Permission|Meaning|
+|---|---|
+|`r`|List the directory contents|
+|`w`|Add or remove files/directories|
+|`x`|Enter the directory with `cd`|
+
+For example, having `x` permission on a directory allows a user to access it.
+
+### Changing permissions with `chmod`
+
+The `chmod` command changes file or directory permissions.
+
+For example:
+
+```
+chmod go-r my_new_file
+```
+
+means:
+
+- `g` = group
+- `o` = others
+- `-` = remove permission
+- `r` = read permission
+
+So this command removes **read access from the group and other users**, making the file more private.
+
+You can check the result again with:
+
+```
+ls -l
+```
+
+### Executable files and scripts
+
+For a shell script to be executable, it generally needs:
+
+1. **Execute permission (`x`)**
+2. A **shebang** on the first line, which tells Linux which interpreter should run the script.
+
+Example:
+
+```
+#!/bin/bash
+```
+
+A Bash script is simply a text file containing commands that the Bash shell can interpret.
+
+### Key commands
+
+```
+ls -l
+```
+
+View permissions.
+
+```
+chmod
+```
+
+Change permissions.
+
+```
+chmod go-r filename
+```
+
+Remove read permission from group and others.
+
+### Quick memory trick
+
+```
+r = read
+w = write
+x = execute
+
+u = user
+g = group
+o = other
+```
+
+So something like:
+
+```
+chmod u+x script.sh
+```
+
+means **give the user execute permission** on `script.sh`.
+
+```
+Hello GPT
+```
