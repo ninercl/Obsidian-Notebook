@@ -41,3 +41,4 @@ Mapa de contenido: curso IBM Data Engineering Foundations / RDBMS, notas fusiona
 
 # Linux y Shell
 - [[Introduction to Linux Commands and Shell Scripting]]
+- [[Introduction to Shell]]
