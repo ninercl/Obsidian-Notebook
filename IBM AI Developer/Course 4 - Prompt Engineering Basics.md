@@ -16,3 +16,15 @@ What is prompt engineering?
 ![[Pasted image 20261027171150.png]]
 
 ![[Pasted image 20261027171618.png]]
+
+----
+Best practices to produce effective prompts 
+
+- Clarity
+- Context 
+- Precision 
+- Role-pley/persona pattern
+
+ ![[Pasted image 20261028004407.png]]
+
+
