@@ -130,3 +130,34 @@ Summary
 - Chain-of-Thought strengthens the cognitive abilities of generative AI models and solicits a step-by-step thinking process.
     
 - Tree-of-Thought is an innovative technique that builds upon the Chain-of-Thought approach and involves structuring prompts hierarchically, akin to a tree, to guide the model's reasoning and output generation.
+
+---
+Rext-to-image prompts
+
+- Style modifies: Descriptors used to influence the artistic style or visual attributes of images.
+
+![[Pasted image 20261102234745.png]]
+
+Quality boosters
+
+Terms used in an image prompt to enhance visual appeal
+
+![[Pasted image 20261102235143.png]]
+
+Repetition
+
+Leverages the power of iterative sampling to enhance image diversity.
+
+![[Pasted image 20261102235335.png]]
+
+Weighted terms
+
+Words or phrases that have a powerful emotional or psychological impact
+
+![[Pasted image 20261102235504.png]]
+
+Fix deformed generation
+
+Technique is used to modify deformities or anomalies that may impact the effectiveness of the image 
+
+---
