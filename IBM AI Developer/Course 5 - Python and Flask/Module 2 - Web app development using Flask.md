@@ -157,3 +157,18 @@ Dynamic Routes
 
 ---
 Error Handling
+
+- Every response contains athree-digit integer status code
+- Valid response from 100 to 599
+
+![[Pasted image 20261112233920.png]]
+
+- Flask automatically returns 20 by default when a string or dict is returned
+- 200 also return when jsonify() method is used 
+
+![[Pasted image 20261112234038.png]]
+
+![[Pasted image 20261112234114.png]]
+
+![[Pasted image 20261112234159.png]]
+
