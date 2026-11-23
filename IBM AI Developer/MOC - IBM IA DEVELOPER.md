@@ -1,5 +1,5 @@
 
-- [[Module 1 - Introduction to Artificial Intelligence]]
+- [[Course2 - Intro to AI]
 	- 
 - [[Module 2 - Cognitive Computing]]
 - 
